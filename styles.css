@@ -167,3 +167,7 @@ p {
 /* .box {
   box-sizing: content-box;
 } */
+#imggal {
+  height: 10%;
+  padding: auto;
+}
